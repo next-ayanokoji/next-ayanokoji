@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shorya Gopyal</h1>
+<h1 align="center">Hey 👋, I'm Shorya Goyal</h1>
 <h3 align="center">⚡ Future Cybersecurity Expert | Bug Bounty Learner</h3>
 
 ---
